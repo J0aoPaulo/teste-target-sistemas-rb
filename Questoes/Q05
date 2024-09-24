@@ -1,0 +1,17 @@
+- Primeira ida
+
+Ligue o Interruptor A e deixe ligado por aproximadamente 5 minutos.
+Após os 5 minutos, desligue o Interruptor A e ligue o Interruptor B.
+Vá para a sala das lâmpadas.
+
+- Na sala das lâmpadas:
+
+A lâmpada acesa corresponde ao Interruptor B, que você acabou de ligar.
+Agora, você tem duas lâmpadas apagadas. Toque nas duas lâmpadas:
+A lâmpada quente e apagada corresponde ao Interruptor A, que estava ligado anteriormente e foi desligado.
+A lâmpada fria e apagada corresponde ao Interruptor C, que nunca foi ligada.
+
+- Volte para a sala dos interruptores:
+
+Desligue o Interruptor B e ligue o Interruptor C. Dessa forma, você pode confirmar que a lâmpada que se acenderá
+ao voltar à sala das lâmpadas é a que corresponde ao Interruptor C.
